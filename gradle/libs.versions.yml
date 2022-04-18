@@ -66,6 +66,7 @@ dependencies:
   minimessage:
     group: net.kyori
     name: adventure-text-minimessage
+    version: { ref: adventure }
 
   configurateHocon:
     group: org.spongepowered
